@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+div {
+
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    padding-top: 10px;
+    box-shadow: 2px 2px 6px white, -2px -2px 6px white;
+}
+
+#display {
+    width: 160px;
+}
+
+input {
+    width: 40px;
+
+}
+
+input:hover {
+    background-color: red;
+}
+
+input:active {
+    background-color: blue;
+}
